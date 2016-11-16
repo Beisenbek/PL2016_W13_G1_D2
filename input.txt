@@ -1,0 +1,14 @@
+2
+Florida 25
+Pennsylvania 23
+Florida Gore
+Pennsylvania Gore
+Florida Bush
+Pennsylvania Bush
+Pennsylvania Bush
+Florida Gore
+Pennsylvania Bush
+Florida Bush
+Pennsylvania Bush
+Florida Bush
+Pennsylvania Gore
